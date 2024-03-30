@@ -1,0 +1,24 @@
+.box1{
+  
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   
+}
+.card
+{
+    height: 450px;
+    width: 260px;
+}
+img{
+    height: 150px;
+    
+}
+.card-body
+{
+    height: 200px;
+}
+.dateandauthor
+{
+    padding-left: 18px;
+}

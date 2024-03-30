@@ -1,0 +1,33 @@
+.navbars{
+    padding: 5px; background-color: rgb(216, 164, 111);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: fixed;
+    width: 99vw;
+    top: 0;
+    
+    z-index: 999;
+
+  
+}
+.navbar-brand
+{  color: rgb(0, 0, 0);
+    padding-left: 5px;
+    font-size: 1.8rem;
+
+}
+.navbar-brand:hover{
+    color: rgb(0, 0, 0);
+}
+.nav-item{
+    
+    padding-left: 20px;
+}
+.nav-link{color: rgb(0, 0, 0);
+font-size: 1.2rem;
+}
+.nav-link:hover
+{
+   color: rgb(209, 152, 78);
+}

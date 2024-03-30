@@ -1,0 +1,28 @@
+.boxes
+{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+margin: 20px;
+
+}
+.heading
+{
+text-align: center;
+text-decoration: underline;
+padding-top: 100px;
+text-transform: capitalize
+
+}
+
+.buttons
+{
+    padding: 0 75px 0 75px;
+    display: flex;
+  justify-content: space-between; 
+}
+.buttons button{
+    margin: 10px;
+    background-color: rgb(46, 44, 44);
+    color: white;
+}
